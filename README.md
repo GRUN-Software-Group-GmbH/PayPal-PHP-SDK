@@ -1,5 +1,5 @@
 ## REST API SDK for PHP
-### Forked for GRÜN Software Group GmbH on 14.08.2024 by [GRÜN Software Group GmbH](https://www.gruen.net)
+### Forked for [GRÜN Software Group GmbH](https://www.gruen.net) on 14.08.2024
 
 ![Home Image](https://raw.githubusercontent.com/wiki/paypal/PayPal-PHP-SDK/images/homepage.jpg)
 
