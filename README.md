@@ -1,8 +1,5 @@
-# Deprecation Notice:
-This SDK is deprecated. You can continue to use it, but no new features or support requests will be accepted.
-For alternatives, please visit [the current SDK homepage on the PayPal Developer Portal](https://developer.paypal.com/docs/api/rest-sdks/)
-
 ## REST API SDK for PHP
+### Forked for GRÜN Software Group GmbH on 14.08.2024 by [GRÜN Software Group GmbH](https://www.gruen.net)
 
 ![Home Image](https://raw.githubusercontent.com/wiki/paypal/PayPal-PHP-SDK/images/homepage.jpg)
 
